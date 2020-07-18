@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Senior Java Software Engineer at [Scout24](https://www.scout24.com/) in Berlin. In my spare time I'm blogging about the [Spring Framework](https://rieckpil.de/category/spring-framework/), [Jakarta EE](https://rieckpil.de/category/jakarta-ee/) and [Eclipse MicroProfile](https://rieckpil.de/category/microprofile/) at [https://rieckpil.de](https://rieckpil.de).
+
 <!--
 **rieckpil/rieckpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
