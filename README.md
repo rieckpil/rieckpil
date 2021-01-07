@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm an independent IT-Consultant (all things #Java #Kotlin #AWS #SpringBoot) located Berlin. In my spare time I'm blogging about the [Spring Framework](https://rieckpil.de/category/spring-framework/), [Jakarta EE](https://rieckpil.de/category/jakarta-ee/) and [Eclipse MicroProfile](https://rieckpil.de/category/microprofile/) at [https://rieckpil.de](https://rieckpil.de).
+I'm an independent IT-Consultant (all things #Java #Kotlin #AWS #SpringBoot) located Berlin. With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts I try to **make testing Java applications more joyful** (or at least less painful) by providing recipes for unit/integration/end-to-end testing real-world applications.
+
+Here's an excerpt of my current projects:
+
+- [Testing Spring Boot Applications Masterclass](https://rieckpil.de/testing-spring-boot-applications-masterclass/)
+- [Stratospheric - From Zero To Production With Spring Boot And AWS](https://stratospheric.dev)
+- [14 Days Free Email Course To Accelerate Your Testing Success](https://rieckpil.de/getting-started-with-testing-java-applications-email-course/)
 
 <!--
 **rieckpil/rieckpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
