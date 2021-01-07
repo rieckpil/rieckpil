@@ -8,6 +8,11 @@ Here's an excerpt of my current projects:
 - [Stratospheric - From Zero To Production With Spring Boot And AWS](https://stratospheric.dev)
 - [14 Days Free Email Course To Accelerate Your Testing Success](https://rieckpil.de/getting-started-with-testing-java-applications-email-course/)
 
+Upcoming projects:
+
+- Hands-On Mocking With Mockito (Online Course)
+- 30 Testing Tools & Libraries Every Java Developer Must Know (eBook)
+
 <!--
 **rieckpil/rieckpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
