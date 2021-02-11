@@ -11,7 +11,7 @@ Here's an excerpt of my current projects:
 Upcoming projects:
 
 - [Hands-On Mocking With Mockito (Online Course)](https://rieckpil.de/hands-on-mocking-with-mockito-online-course/)
-- 30 Testing Tools & Libraries Every Java Developer Must Know (eBook)
+- [30 Testing Tools & Libraries Every Java Developer Must Know (eBook)](https://rieckpil.de/testing-tools-and-libraries-every-java-developer-must-know/)
 
 <!--
 **rieckpil/rieckpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
