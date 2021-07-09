@@ -6,9 +6,7 @@ Here's an excerpt of my current projects:
 
 - [Testing Spring Boot Applications Masterclass](https://rieckpil.de/testing-spring-boot-applications-masterclass/)
 - [Stratospheric - From Zero To Production With Spring Boot And AWS](https://stratospheric.dev)
+- [Testing Spring Boot Applications Primer](https://rieckpil.de/testing-spring-boot-applications-primer/)
 - [14 Days Free Email Course To Accelerate Your Testing Success](https://rieckpil.de/getting-started-with-testing-java-applications-email-course/)
-
-Upcoming projects:
-
 - [Hands-On Mocking With Mockito (Online Course)](https://rieckpil.de/hands-on-mocking-with-mockito-online-course/)
 - [30 Testing Tools & Libraries Every Java Developer Must Know (eBook)](https://rieckpil.de/testing-tools-and-libraries-every-java-developer-must-know/)
