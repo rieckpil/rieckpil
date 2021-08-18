@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an independent IT-Consultant (all things #Java #Kotlin #AWS #SpringBoot) from Berlin (Germany). With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts I try to **make testing Java applications more joyful** (or at least less painful) by providing recipes for unit/integration/end-to-end testing real-world applications.
+I'm an independent IT-Consultant (all things #Java #Kotlin #AWS #SpringBoot) from Berlin (Germany). With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts, I try to **make testing Java applications more joyful** (or at least less painful) by providing recipes for unit/integration/end-to-end testing real-world applications.
 
 Here's an excerpt of my current projects:
 
