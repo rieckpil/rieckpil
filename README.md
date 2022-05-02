@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm a freelance IT consultant (all things #Java #Kotlin #AWS #SpringBoot #Testing) from Berlin 🇩🇪. 
 
-With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts, I try to **make testing Java applications more joyful** (or at least less painful) by providing recipes for writing unit/integration/end-to-end tests for real-world applications.
+With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts, I try to **make testing Java applications more joyful** (or at least less painful) by providing recipes for writing unit, integration, and end-to-end tests for real-world applications 🚀.
 
 Say hi on [Twitter 🐥](https://twitter.com/rieckpil) or [LinkedIn 👔](https://www.linkedin.com/in/rieckpil/).
 
