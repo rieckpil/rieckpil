@@ -1,4 +1,4 @@
-# Hi there 👋
+Hi there 👋
 
 I'm a freelance IT consultant (all things #Java #Kotlin #AWS #SpringBoot #Testing) from Berlin 🇩🇪. 
 
