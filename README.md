@@ -10,10 +10,10 @@ Say hi on [Twitter 🐥](https://twitter.com/rieckpil) or [LinkedIn 👔](https:
 
 <p align="center">
   <a href="https://rieckpil.de/getting-started-with-testing-java-applications-email-course/?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile&utm_id=testing-email-course-leads">
-    <img src="/resources/testing-email-course-wide-banner.webp" width="350" alt="Java Testing Email"/>
+    <img src="/resources/testing-email-course-wide-banner.webp" width="400" alt="Java Testing Email"/>
   </a>
   <a href="https://rieckpil.de/testing-spring-boot-applications-primer?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile&utm_id=tsbap-course-leads">
-    <img src="/resources/tsbap-wide-banner.webp" width="350" alt="Testing Spring Boot Applications Primer Online Course"/>
+    <img src="/resources/tsbap-wide-banner.webp" width="400" alt="Testing Spring Boot Applications Primer Online Course"/>
   </a>
 </p>
 
