@@ -13,7 +13,7 @@ Say hi on [Twitter 🐥](https://twitter.com/rieckpil) or [LinkedIn 👔](https:
     <img src="/resources/testing-email-course-wide-banner.webp" width="400" alt="Java Testing Email"/>
   </a>
   <a href="https://rieckpil.de/testing-spring-boot-applications-primer?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile">
-    <img src="/resources/tsbap-wide-banner.webp" width="400" alt="Testing Spring Boot Applications Primer Online Course"/>
+    <img src="/resources/tsbap-banner.webp" width="400" alt="Testing Spring Boot Applications Primer Online Course"/>
   </a>
 </p>
 
