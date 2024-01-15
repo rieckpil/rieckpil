@@ -8,14 +8,8 @@ Say hi on [Twitter 🐥](https://twitter.com/rieckpil) or [LinkedIn 👔](https:
 
 ## Getting Started with Testing Spring Boot Java Applications
 
-<p align="center">
-  <a href="https://rieckpil.de/getting-started-with-testing-java-applications-email-course/?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile">
-    <img src="/resources/testing-email-course-wide-banner.webp" width="400" alt="Java Testing Email"/>
-  </a>
-  <a href="https://rieckpil.de/testing-spring-boot-applications-primer?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile">
-    <img src="/resources/tsbap-banner.webp" width="400" alt="Testing Spring Boot Applications Primer Online Course"/>
-  </a>
-</p>
+| <a><img src="/resources/testing-spring-boot-applications-demystified-book.webp" width="400" alt="Testing Spring Boot Applications Demystified"/></a> | Unravel the complexities of testing Spring Boot applications. Gain insights, best practices, practical tips and avoid common pitfalls to write comprehensive and effective tests to become more productive. Demystify Spring Boot testing and deliver robust & maintainable applications. <a href="https://rieckpil.de/testing-spring-boot-applications-demystified/?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile">» Get it here</a> |
+| ------------- | ------------- |
 
 ## Further Projects
 
