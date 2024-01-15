@@ -2,11 +2,11 @@ Hi there 👋
 
 I'm a hands-on IT consultant from 🇩🇪
 
-With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts, I try to **make testing Spring Boot applications more joyful** (or at least less painful) by providing recipes for writing unit, integration, and end-to-end tests for real-world applications 🚀
+With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts, I try to **make testing Spring Boot applications more joyful** (or at least less painful). By providing clear and concise guides with thorough explanations and best practices, I help developers incorporate testing into their daily routine rather than making it an afterthought.🚀
 
 Say hi on [Twitter 🐥](https://twitter.com/rieckpil) or [LinkedIn 👔](https://www.linkedin.com/in/rieckpil/)
 
-## Getting Started with Testing Java Applications
+## Getting Started with Testing Spring Boot Java Applications
 
 <p align="center">
   <a href="https://rieckpil.de/getting-started-with-testing-java-applications-email-course/?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile">
