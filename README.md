@@ -6,12 +6,7 @@ With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/
 
 Say hi on [Twitter 🐥](https://twitter.com/rieckpil) or [LinkedIn 👔](https://www.linkedin.com/in/rieckpil/)
 
-## Getting Started with Testing Spring Boot Java Applications
-
-| <a><img src="/resources/testing-spring-boot-applications-demystified-book.webp" width="400" alt="Testing Spring Boot Applications Demystified"/></a> | Unravel the complexities of testing Spring Boot applications. Gain insights, best practices, and practical tips and avoid common pitfalls to write comprehensive and effective tests to become more productive. Demystify Spring Boot testing and deliver robust & maintainable applications. <a href="https://rieckpil.de/testing-spring-boot-applications-demystified/?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile">» Get it here</a> |
-| ------------- | ------------- |
-
-## Further Projects
+## Testing Spring Boot Applications Made Simple
 
 <p align="center">
   <a href="https://rieckpil.de/testing-spring-boot-applications-masterclass/?utm_source=github&utm_medium=banner&utm_campaign=rieckpil-github-profile">
