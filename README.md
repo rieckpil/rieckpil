@@ -1,8 +1,8 @@
 Hi there 👋
 
-With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts, I try to **make testing Spring Boot applications more joyful** (or at least less painful). 
+With my [blogging](https://rieckpil.de) and [YouTube](https://www.youtube.com/c/rieckpil) efforts, I help developer to **make testing Spring Boot applications more joyful** or at least less painful. 
 
-By providing clear and concise guides with thorough explanations and best practices, I help developers incorporate testing into their daily routine rather than making it an afterthought 🧪
+By providing clear and concise guides with thorough explanations and best practices, developers incorporate testing into their daily routine rather than making it an afterthought 🧪
 
 Say hi on [X 🐥](https://x.com/rieckpil) or [LinkedIn 👔](https://www.linkedin.com/in/rieckpil/).
 
