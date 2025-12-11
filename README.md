@@ -25,7 +25,7 @@ Your teammates will trust your code, your deployments will succeed consistently,
 
 **Demystify testing real-world Spring Boot applications to deliver robust & maintainable code with confidence** 😵‍💫
 
-Start your Spring Boot testing journey with the free eBook Testing Spring Boot Applications Demystified
+Start your Spring Boot testing journey with the free eBook **Testing Spring Boot Applications Demystified** 👇🏻
 
 <p align="center">
   <a href="https://rieckpil.de/free-spring-boot-testing-book/?utm_source=github&utm_medium=free-download&utm_id=free-lead-magnet">
