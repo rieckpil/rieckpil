@@ -28,8 +28,12 @@ Your teammates will trust your code, your deployments will succeed consistently,
 Start your Spring Boot testing journey with the free eBook Testing Spring Boot Applications Demystified
 
 <p align="center">
-  <img src="resources/ebook-cover.png" width="400" alt="Testing Spring Boot Applications Demystified Cover">
+  <a href="https://rieckpil.de/free-spring-boot-testing-book/?utm_source=github&utm_medium=free-download&utm_id=free-lead-magnet">
+    <img src="resources/ebook-cover.png" width="400" alt="Testing Spring Boot Applications Demystified Cover">
+  </a>
 </p>
+
+» Get the practical guide trusted by **3,500+ developers** with 120+ Pages of hands-on advice for 🔗 [immediate download as PDF](https://rieckpil.de/free-spring-boot-testing-book/?utm_source=github-profile&utm_medium=free-download&utm_id=free-lead-magnet).
 
 ## Further Links 🔗
 
