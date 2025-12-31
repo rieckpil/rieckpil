@@ -29,7 +29,7 @@ Start your Spring Boot testing journey with the free eBook **Testing Spring Boot
 
 <p align="center">
   <a href="https://rieckpil.de/free-spring-boot-testing-book/?utm_source=github&utm_medium=free-download&utm_id=free-lead-magnet">
-    <img src="resources/ebook-cover.png" width="400" alt="Testing Spring Boot Applications Demystified Cover">
+    <img src="https://github.com/rieckpil/testing-spring-boot-applications-demystified/blob/main/resources/tsbad-beginning.png" height="600" alt="Testing Spring Boot Applications Demystified Cover">
   </a>
 </p>
 
